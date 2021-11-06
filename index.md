@@ -3,38 +3,21 @@
 
 Welcome ! 
 
-My name is Romane Le Goff. I am a student in Applied Mathematics and Statistics at both ENSAI and University of Rennes 1, enrolled with a specialisation in Public Evaluation & Decision Making.
+My name is Romane Le Goff. I am a student in Applied Mathematics and Statistics at both ENSAI and University of Rennes 1, enrolled with a specialisation in Public Evaluation & Decision Making. You fill find below my CV in both French and English versions.
 
-[Kuznets curve](/Kuznets.pdf) (in French)
+**CVs**
 
-### Markdown
+* [CV (English)](/Romane_Le-Goff_CV_English.pdf)
+* [CV (Français)](/Romane_Le-Goff_CV.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Some of my academics projects**
 
-```markdown
-Syntax highlighted code block
+In French:
+* [Kuznets curve](/Kuznets.pdf) 
+* [Wine quality](/Anoumantou_Le-Goff_Souquière.html) 
+* [Extrative industry](/Memoire.pdf) (time series)
 
-# Header 1
-## Header 2
-### Header 3
+In English, economics-related topics:
+* [Game Theory and p-Beauty Contest Game](/p-beauty-contest-cw.pdf) 
+* [Wages determinants](/ECN2005_CROSS_SECTION_CW.pdf) 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/romanelgff/RomaneLG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
