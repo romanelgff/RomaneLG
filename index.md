@@ -1,9 +1,11 @@
 ## Romane Le Goff
 ### Personal web page
 
-You can use the [editor on GitHub](https://github.com/romanelgff/RomaneLG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome ! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Romane Le Goff. I am a student in Applied Mathematics and Statistics at both ENSAI and University of Rennes 1, enrolled with a specialisation in Public Evaluation & Decision Making.
+
+[Kuznets curve](/Kuznets.pdf) (in French)
 
 ### Markdown
 
