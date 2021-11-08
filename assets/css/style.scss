@@ -3,6 +3,21 @@
 
 @import "jekyll-theme-minimal";
 
+.header h1.logo {  margin: 7px 0 0 0; float: left;   }
+ 
+    .header h1.logo a {  
+
+    width: 250px; height: 49px; display: block; 
+	background: url(../images/sprite.png) no-repeat 0 0;
+
+    /* the old way was including text-indent: -9999px; but the new way is as seen below */
+
+    font: 0/0 a;
+    text-shadow: none;
+    color: transparent;
+
+ }
+
 .img-circle {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
