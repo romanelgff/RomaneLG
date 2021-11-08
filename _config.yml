@@ -1,6 +1,7 @@
-title: Rommane LG
+title: Romane
 logo: /assets/img/logo-master.png
 description: 
+repository: romanelgff/romanelgff.github.io
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
