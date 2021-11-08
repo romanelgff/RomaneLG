@@ -1,10 +1,14 @@
 title: Rommane LG
 logo: /assets/img/logo-master.png
 description: 
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+jekyll_compose:
+  default_front_matter:
+    posts:
+      tags: TODO
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-mentions
+  - jekyll-github-metadata
   - jemoji
