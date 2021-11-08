@@ -3,15 +3,6 @@
 
 @import "jekyll-theme-minimal";
 
-.logo {
-    height: 100px;
-    width: auto;
-    padding: 10px;
-    display: block;
-    margin: 0 auto;
-    background:url('assets/img/logo-master.png') no-repeat center center;
-}
-
 .site-title::before {
 	content: url("/assets/css/logo-master.png");
 	display: inline-block;
