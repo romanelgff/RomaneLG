@@ -1,3 +1,1 @@
 # RomaneLG
-
-Personal web page.
