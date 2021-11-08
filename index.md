@@ -10,6 +10,14 @@ My name is Romane Le Goff. I am a student in Applied Mathematics and Statistics 
 * [CV (English)](/CV_Romane_Le-Goff_English.pdf)
 * [CV (Français)](/CV_Romane_Le-Goff.pdf)
 
+******
+
+Bienvenue ! 
+
+Je m'appelle Romane Le Goff. Je suis étudiante en mathématiques appliquées et statistiques à l'Université de Rennes 1 et à l'ENSAI, et je suis une majeure en Evaluation et Décision Publique. Vous trouverez ci-dessus mon CV en versions française et anglaise.
+
+******
+
 **Some of my academics projects**
 
 In French, econometrics and time series:
