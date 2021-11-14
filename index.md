@@ -29,6 +29,8 @@ In English, economics-related topics:
 * [Game Theory and p-Beauty Contest Game](/p-beauty-contest-cw.pdf) 
 * [Wages determinants](/ECN2005_CROSS_SECTION_CW.pdf) 
 
+Other projects are visible on my GitHub page.
+
 ******
 
 This year I had the chance to work as an intern for the Ministry of the Defense in Brest, at the Atlantic Maritime Prefecture. 
