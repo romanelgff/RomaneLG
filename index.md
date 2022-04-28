@@ -3,7 +3,7 @@
 
 Welcome ! 
 
-My name is Romane Le Goff. I am a student in Applied Mathematics and Statistics at both ENSAI and University of Rennes 1, enrolled with a specialisation in Public Evaluation & Decision Making. You fill find below my CV in both French and English versions.
+My name is Romane Le Goff. I am a student in Applied Statistics at both ENSAI and University of Rennes 1. You fill find below my CV in French and English versions.
 
 **CVs**
 
@@ -14,7 +14,7 @@ My name is Romane Le Goff. I am a student in Applied Mathematics and Statistics 
 
 Bienvenue ! 
 
-Je m'appelle Romane Le Goff. Je suis étudiante en mathématiques appliquées, statistique à l'Université de Rennes 1 et à l'ENSAI, avec une majeure en Evaluation et Décision Publique. Vous trouverez ci-dessus mon CV en versions française et anglaise.
+Je m'appelle Romane Le Goff. Je suis étudiante en mathématiques appliquées, statistique à l'Université de Rennes 1 et à l'ENSAI. Vous trouverez ci-dessus mon CV en version française et anglaise.
 
 ******
 
@@ -36,14 +36,14 @@ Other projects are visible on my GitHub page.
 
 ******
 
-This year I had the chance to work as an intern for the Ministry of the Defense in Brest, at the Atlantic Maritime Prefecture. 
+Last year I had the chance to work as an intern for the Ministry of the Defense in Brest, at the Atlantic Maritime Prefecture. 
 
 I contributed with a pair to the creation of automated dashboards: one for the Defence Base Commander (COMBdD) and the other for the Social Action of the Army (ASA). The first dashboard summarises indicators of the evolution of civilian and military personnel since 2013, the budget (allocation, monitoring of the provision of delegated appropriations and monitoring of consumption), the evolution of surveys on the Quality of Service Rendered (QSR), details of material resources and comitology. It also includes a mapping of the formations and personnel of the Brest-Lorient defence base.
 The second dashboard produced for Social Action of the Army gathers, from data collected in the frame of the "[Family Plan](https://www.defense.gouv.fr/english/familles/votre-espace/plan-d-accompagnement-des-familles/les-mesures-du-plan-famille)", social indicators about the personnel of the defence base. A parallel study based on these data made it possible to determine the best location for the construction of a military "crèche" (nursery) on the defence base.
 
 ******
 
-Cette année j'ai eu la chance de travailler pour le Ministère de la Défense à Brest, à la Préfecture Maritime de l'Atlantique (CECLANT).
+L'année passée j'ai eu la chance de travailler pour le Ministère de la Défense à Brest, à la Préfecture Maritime de l'Atlantique (CECLANT).
 
 J'ai contribué avec un binôme à la création de tableaux de bord automatisés: pour le Commandant de Base de Défense (COMBdD) et pour l’action sociale. Le premier tableau de bord regroupe de façon synthétique des indicateurs sur l’évolution des effectifs civils et militaires depuis 2013, le budget (allocation, suivi de mise à disposition des crédits délégués et suivi des consommations), l’évolution des enquêtes sur la Qualité du Service Rendu (QSR), le détail des moyens matériels et la comitologie. Il comporte également une cartographie des formations et des effectifs de la base de défense (BdD) Brest-Lorient.
 Le deuxième tableau de bord réalisé pour l’action sociale réunit, à partir de données collectées pour le [Plan Famille](https://www.defense.gouv.fr/english/familles/votre-espace/plan-d-accompagnement-des-familles/les-mesures-du-plan-famille), des indicateurs sur le personnel de la BdD. Une étude réalisée en parallèle à partir de ces données a permis de déterminer le meilleur emplacement pour la construction d’une crèche militaire dans la base de défense.
