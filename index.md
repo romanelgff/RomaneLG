@@ -25,12 +25,12 @@ In French, econometrics and time series:
 * [Wine quality](/Anoumantou_Le-Goff_Souquière.html) 
 * [Extrative industry](/Memoire.pdf) 
 
+A health-related and machine learning articles :
+* [Mesothelioma report](/mesothelioma_report.pdf) 
+
 In English, economics-related topics:
 * [Game Theory and p-Beauty Contest Game](/p-beauty-contest-cw.pdf) 
 * [Wages determinants](/ECN2005_CROSS_SECTION_CW.pdf) 
-
-A scientific article written in the frame of a Machine Learning course within my Master's degree:
-* [Mesothelioma report](/mesothelioma_report_V3.pdf) 
 
 Other projects are visible on my GitHub page.
 
