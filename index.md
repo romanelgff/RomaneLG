@@ -3,7 +3,7 @@
 
 Welcome ! 
 
-My name is Romane Le Goff. I am a student in Applied Statistics at both ENSAI and University of Rennes 1. You fill find below my CV.
+My name is Romane Le Goff. I am a student in Applied Statistics at both ENSAI and University of Rennes 1. You fill find below my CV, some of my academics projects and a short description of my previous experiences in data science.
 
 **CV**
 
@@ -19,7 +19,7 @@ Written in French, an econometrics project about the Kuznets curve:
 A health-related and machine learning article:
 * [Mesothelioma report](/mesothelioma_report.pdf) 
 
-In English, economics-related topics:
+Economics-related topics:
 * [Game Theory and p-Beauty Contest Game](/p-beauty-contest-cw.pdf) 
 * [Wages determinants](/ECN2005_CROSS_SECTION_CW.pdf) 
 
