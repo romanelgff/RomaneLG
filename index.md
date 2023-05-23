@@ -29,7 +29,7 @@ Other projects are visible on my GitHub page.
 
 **Work experience**
 
-***2023***
+***2022-now - Biostatistican (IQVIA France, Courbevoie)***
 
 As a biostatistician at IQVIA France, my work primarily focuses on projects utilizing the National Health Data System (Système Nationale des Données de Santé or SNDS in French). The SNDS is a comprehensive collection of databases that consolidates medico-administrative information related to healthcare utilization, socio-demographic data, and hospital stays of the French population. In addition, I am actively gaining expertise in analyzing data from Electronic Medical Records and pharmacy dispensation databases available at IQVIA.
 
