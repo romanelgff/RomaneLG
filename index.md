@@ -27,7 +27,7 @@ Other projects are visible on my GitHub page.
 
 ******
 
-***Work experience***
+**Work experience**
 
 ***2023***
 
@@ -35,13 +35,13 @@ As a biostatistician at IQVIA France, my work primarily focuses on projects util
 
 **Internships**
 
-***2022 - Data scientist intern (IQVIA France, Courbevoie) ***
+***2022 - Data scientist intern (IQVIA France, Courbevoie)***
 
 During the course of a patient's healthcare journey, they receive individualized treatment and care prescriptions tailored to their specific needs, making each individual's care pathway unique. It is crucial to identify the various possible treatment trajectories for a particular condition in order to characterize the evolution of therapies over time. The objective of the internship was to explore and compare methods that enable the grouping of similar care trajectories, with the aim of identifying "typical pathways" followed by patients.
 
 * [My intership report](/Rapport_stage_IQVIA.pdf) (French)
 
-***2021 - Data analyst intern (Atlantic Maritime Prefecture, Brest) ***
+***2021 - Data analyst intern (Atlantic Maritime Prefecture, Brest)***
 
 During the internship, the focus was on developing automated dashboards for two different entities. The first dashboard was designed for the Defence Base Commander (COMBdD), providing a comprehensive overview of various indicators such as the evolution of civilian and military personnel since 2013, budget allocation and monitoring, Quality of Service Rendered (QSR) surveys, details of material resources, and comitology. Additionally, it included a mapping feature displaying formations and personnel of the Brest-Lorient defence base.
 
