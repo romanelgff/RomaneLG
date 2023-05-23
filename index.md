@@ -3,23 +3,24 @@
 
 Welcome ! 
 
-My name is Romane Le Goff. I am a student in Applied Statistics at both ENSAI and University of Rennes 1. You fill find below my CV, some of my academics projects and a short description of my previous experiences in data science.
+My name is Romane Le Goff, and I am currently working as a Junior Biostatistician at IQVIA France. In 2022, I completed a Master's degree in Applied Statistics from both ENSAI and the University of Rennes 1. Alongside my academic journey, I have been involved in several notable projects, which I will outline in my CV below. Additionally, I have gained valuable experience in the field of data science through my previous professional endeavors detailled below.
 
 **CV**
 
+* [CV (French)](/CV_Romane_Le-Goff.pdf)
 * [CV (English)](/CV_Romane_Le-Goff_English.pdf)
 
 ******
 
 **Some of my academics projects**
 
-Written in French, an econometrics project about the Kuznets curve:
+Kuznets curve (French):
 * [Kuznets curve](/Kuznets.pdf) 
 
-A health-related and machine learning article:
+Machine Learning model for predicting mesothelioma diagnosis (English):
 * [Mesothelioma report](/mesothelioma_report.pdf) 
 
-Economics-related topics:
+Economics (English):
 * [Game Theory and p-Beauty Contest Game](/p-beauty-contest-cw.pdf) 
 * [Wages determinants](/ECN2005_CROSS_SECTION_CW.pdf) 
 
@@ -27,15 +28,22 @@ Other projects are visible on my GitHub page.
 
 ******
 
+***Work experience***
+
+***2023***
+
+As a biostatistician at IQVIA France, my work primarily focuses on projects utilizing the National Health Data System (Système Nationale des Données de Santé or SNDS in French). The SNDS is a comprehensive collection of databases that consolidates medico-administrative information related to healthcare utilization, socio-demographic data, and hospital stays of the French population. In addition, I am actively gaining expertise in analyzing data from Electronic Medical Records and pharmacy dispensation databases available at IQVIA.
+
 **Internships**
 
-***2022***
+***2022 - Data scientist intern (IQVIA France, Courbevoie) ***
 
-This year, I am working as a research intern for IQVIA France in Courbevoie (Paris La Défense). The objective of the internship is to find machine learning methods to identify and cluster care pathways for diabetic patients. It is a retrospective longitudinal database analysis study (IQVIA database: LifelinkTM Treatments Dynamics, LTD). The study consists of following treatment-naive diabetic patients. In other words, the first line of treatment is defined by the absence of delivery of any anti-diabetic medication in the 12 months preceding this first delivery. The patient will be considered to start his or her first treatment on this date; the patient will therefore be defined as treatment-naive. This design will make it possible to study a cohort of patients reflecting the current distribution of anti-diabetic treatments in order to give the most recent picture of the drug management of diabetes in France. 
+During the course of a patient's healthcare journey, they receive individualized treatment and care prescriptions tailored to their specific needs, making each individual's care pathway unique. It is crucial to identify the various possible treatment trajectories for a particular condition in order to characterize the evolution of therapies over time. The objective of the internship was to explore and compare methods that enable the grouping of similar care trajectories, with the aim of identifying "typical pathways" followed by patients.
 
-***2021***
+* [My intership report](/Rapport_stage_IQVIA.pdf) (French)
 
-Last year I had the chance to work as an intern for the Ministry of the Defense in Brest, at the Atlantic Maritime Prefecture. 
+***2021 - Data analyst intern (Atlantic Maritime Prefecture, Brest) ***
 
-I contributed with a pair to the creation of automated dashboards: one for the Defence Base Commander (COMBdD) and the other for the Social Action of the Army (ASA). The first dashboard summarises indicators of the evolution of civilian and military personnel since 2013, the budget (allocation, monitoring of the provision of delegated appropriations and monitoring of consumption), the evolution of surveys on the Quality of Service Rendered (QSR), details of material resources and comitology. It also includes a mapping of the formations and personnel of the Brest-Lorient defence base.
-The second dashboard produced for Social Action of the Army gathers, from data collected in the frame of the "[Family Plan](https://www.defense.gouv.fr/english/familles/votre-espace/plan-d-accompagnement-des-familles/les-mesures-du-plan-famille)", social indicators about the personnel of the defence base. A parallel study based on these data made it possible to determine the best location for the construction of a military "crèche" (nursery) on the defence base.
+During the internship, the focus was on developing automated dashboards for two different entities. The first dashboard was designed for the Defence Base Commander (COMBdD), providing a comprehensive overview of various indicators such as the evolution of civilian and military personnel since 2013, budget allocation and monitoring, Quality of Service Rendered (QSR) surveys, details of material resources, and comitology. Additionally, it included a mapping feature displaying formations and personnel of the Brest-Lorient defence base.
+
+The second dashboard was developed for the Social Action of the Army (ASA) and gathered social indicators related to the personnel of the defence base, using data collected within the scope of the "[Family Plan](https://www.defense.gouv.fr/english/familles/votre-espace/plan-d-accompagnement-des-familles/les-mesures-du-plan-famille)". Furthermore, a parallel study based on these data enabled the identification of the optimal location for constructing a military "crèche" (nursery) on the defence base.
