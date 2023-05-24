@@ -39,7 +39,7 @@ As a biostatistician at IQVIA France, my work primarily focuses on projects util
 
 During the course of a patient's healthcare journey, they receive individualized treatment and care prescriptions tailored to their specific needs, making each individual's care pathway unique. It is crucial to identify the various possible treatment trajectories for a particular condition in order to characterize the evolution of therapies over time. The objective of the internship was to explore and compare methods that enable the grouping of similar care trajectories, with the aim of identifying "typical pathways" followed by patients.
 
-* [My intership report](/Rapport_stage_IQVIA.pdf) (French)
+* [My intership report](/LE-GOFF_R_rapport_stage_clustering_Trajectoires.pdf) (French)
 
 ***2021 - Data analyst intern (Atlantic Maritime Prefecture, Brest)***
 
