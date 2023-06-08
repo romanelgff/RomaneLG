@@ -7,7 +7,7 @@ My name is Romane Le Goff, and I am currently working as a Junior Biostatisticia
 
 **CV**
 
-* [CV (French)](/CV_Romane_Le-Goff.pdf)
+* [CV (French)](/CV_Romane_Le-Goff_French.pdf)
 
 ******
 
